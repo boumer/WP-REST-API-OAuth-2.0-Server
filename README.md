@@ -1,6 +1,7 @@
 # [WP REST API - OAuth 2.0 Server](http://rest.wp-oauth.com/)
 
-OAuth2 Flow for providing authorization access to WordPress REST API.
+OAuth2 Flow for providing authorization access to WordPress REST API. 
+The overall idea is to mimic the [OAuth 1](https://github.com/WP-API/OAuth1) project but provide OAuth2 flow.
 
 This plugin only supports WordPress >= 4.4.
 
